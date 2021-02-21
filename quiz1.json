@@ -1,0 +1,33 @@
+{
+    "questions": [{
+        "question": "Some cats are allergic to people.",
+        "answer": true
+    }, {
+        "question": "An octopus has three hearts",
+        "answer": true
+    }, {
+        "question": "The unicorn is the national animal of Scotland.",
+        "answer": true
+    }, {
+        "question": "Your 'radius' bone is in your leg",
+        "answer": false
+    }, {
+        "question": "Australia is wider than the moon",
+        "answer": true
+    }, {
+        "question": "If you drive south from Detroit, you'll hit Canada.",
+        "answer": true
+    }, {
+        "question": "There are two parts of the body that can't heal themselves",
+        "answer": false
+    }, {
+        "question": "The letter T is the most common in the English Language",
+        "answer": false
+    }, {
+        "question": "Fear of the number 13 is called triskaidekaphobia.",
+        "answer": true
+    }, {
+        "question": "Cardi B's real name is Cardigan Backyardigan",
+        "answer": false
+    }]
+}
