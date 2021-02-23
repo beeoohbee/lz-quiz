@@ -1,5 +1,7 @@
 # Simple Quiz to show a bit of JavaScript
 
+Running example: https://lzquiz.tiiny.site/
+
 When you're using chrome you'll need to allow some special permissions to use the json file from your local machine:
 
 On Mac:
